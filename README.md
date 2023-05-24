@@ -26,11 +26,19 @@ There are challenges in this projects -
 ### Screenshots
 #### Desktop Preview
 
-https://github.com/ManikMaity/Huddle-Landing-Page/assets/110734724/81cadd5d-cb32-46f9-bbfa-ec4862554bfe
+
+
+https://github.com/ManikMaity/Huddle-Landing-Page/assets/110734724/b09a2ebb-b66c-4adc-a3dd-df70761be434
+
+
 
 
 #### Mobile Preview
-https://github.com/ManikMaity/Huddle-Landing-Page/assets/110734724/d8519995-6c80-4f09-abdb-50d46d286e5f
+
+
+https://github.com/ManikMaity/Huddle-Landing-Page/assets/110734724/ce42c9f2-1d8d-49dc-8a2f-0e7a4f968891
+
+
 
 ## My process
 
